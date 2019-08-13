@@ -7,13 +7,14 @@ use LineRenderer made VJ kit
 
 LineRendererと三角関数で作りました。
 
-　　　　using System.Collections;
-　　　　using System.Collections.Generic;
-      using UnityEngine;
 
-　　　　public class vj13 : MonoBehaviour
-　　　　{
-        public float input { get; set; }
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
+　
+ public class vj13 : MonoBehaviour
+　{
+   public float input { get; set; }
 
     public GameObject[] point;
 
