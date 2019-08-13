@@ -2,7 +2,7 @@
 use LineRenderer made VJ kit 
 
 #### LineRenderer覚書き
-![rainrender take2](https://user-images.githubusercontent.com/43961147/62193387-9c56de00-b3b2-11e9-9009-a2cb04360b50.gif)
+![VJ_Line-Renderer_2_gif](https://user-images.githubusercontent.com/43961147/62940743-308f5f00-be0f-11e9-95e9-4ead1d11df7d.gif)
 *** 
 
 LineRendererと三角関数で作りました。
