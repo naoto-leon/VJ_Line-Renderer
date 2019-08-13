@@ -84,4 +84,4 @@ LineRendererと三角関数で作りました。
             point[i].transform.position = Pos;
         }
     }
-   }
+      }
