@@ -12,12 +12,12 @@ LineRendererと三角関数で作りました。
     using System.Collections.Generic;
     using UnityEngine;
 　
-      public class vj13 : MonoBehaviou
-     {
-    public float input { get; set; }
-    public GameObject[] point;
-    public GameObject obj;
-    private LineRenderer lineRenderer;
+           public class vj13 : MonoBehaviou
+             {
+            public float input { get; set; }
+            public GameObject[] point;
+            public GameObject obj;
+            private LineRenderer lineRenderer;
 
 
     [SerializeField]
