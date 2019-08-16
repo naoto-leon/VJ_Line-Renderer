@@ -1,4 +1,4 @@
-# VJ_Line-Renderer_2
+# [VJ]_Line-Renderer
 use LineRenderer made VJ kit 
 
 #### LineRenderer覚書き
